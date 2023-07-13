@@ -2,8 +2,7 @@
 
 click to [site name](https://discord.com/invite/K65AYbuDeF)
 
-<!--
-**DolphinNotFound/DolphinNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DolphinNotFound/DolphinNotFound** is a ✨ _special_ ✨ repository!!!!!!!!
 
 Here are some ideas to get you started:
 
