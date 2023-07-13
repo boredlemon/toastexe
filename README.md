@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Discord server](https://discord.com/invite/K65AYbuDeF)
-[![YouTube Channel](https://www.youtube.com/@DolphinNotFound)
+[![Discord server](https://discord.com/invite/K65AYbuDeF)[Discord server]
+[![YouTube Channel](https://www.youtube.com/@DolphinNotFound)[YouTube Channel]
 
 ## 📖 **_About Me:_**
 
