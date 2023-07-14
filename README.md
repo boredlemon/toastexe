@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋 I am DolphinNotFound
+
+**`Developer and Content Creator SUIIIIIIIIIIIII EEEEEEEEE`**
 
 <div>
   <a href="https://www.youtube.com/@DolphinNotFound" target="_blank">
@@ -70,6 +72,8 @@
   <a href="https://discord.com/invite/K65AYbuDeF" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
   </a>
+
+**`Facts about DolphinNotFound`**
 
 - 🔭 I’m currently working on creating a Discord bot
 - 🌱 I’m currently learning JavaScript!💻
