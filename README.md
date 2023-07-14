@@ -54,6 +54,8 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)][html]
 [![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)][css]
 
+<br />
+
 ### 💬 Socials
 
 <div>
