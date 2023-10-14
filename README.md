@@ -28,9 +28,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://justmecoffee.vercel.app">「 Website 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full-stack web developer from <b>Pennsylvannia</b> 」
     <br>
     <br>
   </samp>
@@ -64,10 +64,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️ &emsp; I enjoy doing programming and sharing knowledge about it<br/><br/>
+ ❤️ &emsp; I love to do coding during my free time<br/><br/>
+ 📧 &emsp; Reach me anytime: [Website](https://justmecoffee.vercel.app/contact)<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://justmecoffee.vercel.app/contact)
 
 </p>
 
@@ -75,7 +75,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Technologies
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
