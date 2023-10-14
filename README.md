@@ -115,8 +115,6 @@
 <br/>
 
 ![Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
-
-![Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&hide_progress=true)
 
 
