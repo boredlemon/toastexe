@@ -111,6 +111,19 @@
 <hr/>
 <br/>
 
+## Top Utility Programs I Coded -
+[![Readme Card](https://coffeeactivitystats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeGraphTools)](https://github.com/CoffeeBit/CoffeeGraphTools)
+[![Readme Card](https://coffeeactivitystats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeActivityStats)](https://github.com/CoffeeBit/CoffeeActivityStats)
+[![Readme Card](https://coffeeactivitystats.vercel.app/api/pin/?username=CoffeeBit&repo=coffeezhs)](https://github.com/CoffeeBit/coffeezhs)
+
+<p align="left">
+  <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
 ![Coffee's GitHub stats](https://coffeeactivitystats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
 
 ![Top Langs](https://coffeeactivitystats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
