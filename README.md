@@ -20,7 +20,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hello!, I am
                 <b><a target="_blank" href="https://justmecoffee.vercel.app">Coffee</a></b>
         </samp>
 </h3>
@@ -119,4 +119,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
 
 
-[![Coffee's graph](https://github-readme-activity-graph.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Coffee's graph](https://github-readme-activity-graph.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)]
