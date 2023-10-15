@@ -64,10 +64,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; I enjoy doing programming and sharing knowledge about it<br/><br/>
- ❤️ &emsp; I love to do coding during my free time<br/><br/>
- 📧 &emsp; Reach me anytime: [Website](https://justmecoffee.vercel.app/contact)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://justmecoffee.vercel.app/contact)
+ 👨‍💻 &emsp; I enjoy doing programming and sharing knowledge about it<br/><br/>
+ 💻 &emsp; I love to do coding during my free time<br/><br/>
+ 🌐 &emsp; My website: [Website](https://justmecoffee.vercel.app/contact)<br/><br/>
+ 💬 &emsp; Email or say hi to me: [here](https://justmecoffee.vercel.app/contact)
 
 </p>
 
@@ -86,15 +86,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -119,4 +114,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
 
 
-[![Coffee's graph](https://github-readme-activity-graph.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)]
+![Coffee's graph](https://github-readme-activity-graph.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
