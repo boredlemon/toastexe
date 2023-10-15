@@ -101,7 +101,7 @@
 <br/>
 
 ## Top Open Source -
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoffeeBit&repo=CoffeeBot)](https://github.com/CoffeeBit/CoffeeBot)
 
 <p align="left">
   <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
