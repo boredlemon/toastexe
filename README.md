@@ -37,16 +37,16 @@
 </p>
 
 <p align="center">
- <a href="https://Coffee.com" target="blank">
+ <a href="https://justmecoffee.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Coffee" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Coffee"/>
  </a>
  <!-- <a href="https://dev.to/Coffee" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Coffee" />
  </a> -->
- <a href="https://twitter.com/Coffee_dev" target="_blank">
+ <!-- <a href="https://twitter.com/Coffee_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/Coffee_dev" target="_blank">
@@ -54,7 +54,7 @@
  </a> 
  <a href="https://facebook.com/Coffee.world" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Coffee"  />
-  </a> 
+  </a>  -->
 </p>
 <br />
 
@@ -107,7 +107,7 @@
 [![CoffeeTeminal](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=Coffee.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/Coffee.github.io)
 
 <p align="left">
-  <a href="https://github.com/Coffee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
