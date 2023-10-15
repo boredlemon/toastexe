@@ -115,7 +115,8 @@
 <br/>
 
 ![Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoffeeBit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBit&layout=donut-vertical)
 
 
 [![Coffee's graph](https://github-readme-activity-graph.vercel.app/graph?username=CoffeeBit&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
