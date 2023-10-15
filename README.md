@@ -101,10 +101,7 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/al-folio)
-[![CoffeeReadme](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=Coffee&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/Coffee)
-[![CoffeeTeminal](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=Coffee.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/Coffee.github.io)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Coffee&repo=CoffeeBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Coffee/web-projects)
 
 <p align="left">
   <a href="https://github.com/CoffeeBit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
