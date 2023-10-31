@@ -98,10 +98,10 @@
 <br/>
 
 ## Top Open Source -
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexeBot)](https://github.com/toastexe/toastexeBot)
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=Cup)](https://github.com/toastexe/Cup)
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexeOS)](https://github.com/toastexe/toastexeOS)
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeBot)](https://github.com/toastexe/toastexeBot)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=Cup)](https://github.com/toastexe/Cup)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeOS)](https://github.com/toastexe/toastexeOS)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
 
 <p align="left">
   <a href="https://github.com/toastexe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -112,9 +112,9 @@
 <br/>
 
 ## Top Utility Programs I Coded -
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexeGraphTools)](https://github.com/toastexe/toastexeGraphTools)
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexeActivityStats)](https://github.com/toastexe/toastexeActivityStats)
-[![Readme Card](https://toastexeactivitystats.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeGraphTools)](https://github.com/toastexe/toastexeGraphTools)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeActivityStats)](https://github.com/toastexe/toastexeActivityStats)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
 
 <p align="left">
   <a href="https://github.com/toastexe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -124,9 +124,9 @@
 <hr/>
 <br/>
 
-![toastexe's GitHub stats](https://toastexeactivitystats.vercel.app/api?username=toastexe&show_icons=true&theme=radical)
+![toastexe's GitHub stats](https://git-toaster-activity.vercel.app/api?username=toastexe&show_icons=true&theme=radical)
 
-![Top Langs](https://toastexeactivitystats.vercel.app/api/top-langs/?username=toastexe&layout=donut-vertical)
+![Top Langs](https://git-toaster-activity.vercel.app/api/top-langs/?username=toastexe&layout=donut-vertical)
 
 GitToaster (Made by Toast)
 ![toastexe's graph](https://git-toaster-graphing.vercel.app/graph?username=toastexe&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
