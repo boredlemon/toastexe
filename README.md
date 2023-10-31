@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello!, I am
-                <b><a target="_blank" href="https://justmetoastexe.vercel.app">toastexe</a></b>
+                <b><a target="_blank" href="https://justmetoastexe.vercel.app">Toast</a></b>
         </samp>
 </h3>
 
@@ -30,7 +30,7 @@
   <samp>
     <a href="https://justmetoastexe.vercel.app">「 Website 」</a>
     <br>
-    「 I am a full-stack web developer from <b>Pennsylvannia</b> 」
+    「 I am a full-stack Developer 」
     <br>
     <br>
   </samp>
@@ -57,6 +57,14 @@
   </a>  -->
 </p>
 <br />
+
+## A Poem
+```
+Roses are red,
+My code's a disaster,
+Fixing errors all day, 
+Git push --force origin master
+```
 
 <!-- About Section -->
  # About me
@@ -97,11 +105,13 @@
 
 <br/>
 
+###### quick note
+Since GitHub allows only 1,000 requests per hour, some of the images may not be availible, I will try my best to fix them.
+
 ## Top Open Source -
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeBot)](https://github.com/toastexe/toastexeBot)
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=Cup)](https://github.com/toastexe/Cup)
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeOS)](https://github.com/toastexe/toastexeOS)
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=ToastBot)](https://github.com/toastexe/ToastBot)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=Viper)](https://github.com/toastexe/Viper)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=CoffeeOS)](https://github.com/toastexe/CoffeeOS)
 
 <p align="left">
   <a href="https://github.com/toastexe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -112,9 +122,8 @@
 <br/>
 
 ## Top Utility Programs I Coded -
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeGraphTools)](https://github.com/toastexe/toastexeGraphTools)
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexeActivityStats)](https://github.com/toastexe/toastexeActivityStats)
-[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=toastexezhs)](https://github.com/toastexe/toastexezhs)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=Git-Toaster-Graphing)](https://github.com/toastexe/Git-Toaster-Graphing)
+[![Readme Card](https://git-toaster-activity.vercel.app/api/pin/?username=toastexe&repo=Git-Toaster-Activity)](https://github.com/toastexe/Git-Toaster-Activity)
 
 <p align="left">
   <a href="https://github.com/toastexe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
