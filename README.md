@@ -21,14 +21,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello!, I am
-                <b><a target="_blank" href="https://justmetoastexe.vercel.app">Toast</a></b>
+                <b><a target="_blank" href="https://toastdev.vercel.app">Toast</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://justmetoastexe.vercel.app">「 Website 」</a>
+    <a href="https://toastdev.vercel.app">「 Website 」</a>
     <br>
     「 I am a full-stack Developer 」
     <br>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="https://justmetoastexe.vercel.app" target="blank">
+ <a href="https://toastdev.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-327574?style=for-the-badge&logo=medium&logoColor=white" alt="toastexe" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
@@ -74,8 +74,8 @@ Git push --force origin master
   
  👨‍💻 &emsp; I enjoy doing programming and sharing knowledge about it<br/><br/>
  💻 &emsp; I love to do coding during my free time<br/><br/>
- 🌐 &emsp; My website: [Website](https://justmetoastexe.vercel.app/contact)<br/><br/>
- 💬 &emsp; Email or say hi to me: [here](https://justmetoastexe.vercel.app/contact)
+ 🌐 &emsp; My website: [Website](https://toastdev.vercel.app/contact)<br/><br/>
+ 💬 &emsp; Email or say hi to me: [here](https://toastdev.vercel.app/contact)
 
 </p>
 
