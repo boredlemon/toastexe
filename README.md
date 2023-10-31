@@ -128,4 +128,5 @@
 
 ![Top Langs](https://toastexeactivitystats.vercel.app/api/top-langs/?username=toastexe&layout=donut-vertical)
 
+GitToaster (Made by Toast)
 ![toastexe's graph](https://git-toaster-graphing.vercel.app/graph?username=toastexe&bg_color=3a88fe&color=004d65&line=263e0f&point=000000&area=true&hide_border=true)
